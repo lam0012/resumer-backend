@@ -1,0 +1,296 @@
+{
+  "name": "Ihor Orlov",
+  "contact": {
+    "Email": "orllovihor@gmail.com",
+    "WhatsApp": "https://wa.me/380935625296",
+    "LinkedIn": "www.linkedin.com/in/ihororllov"
+  },
+  "summary": "Senior Shopify Developer with 9+ years of experience building and optimizing Shopify Plus and headless storefronts. Skilled in developing custom apps and Store 2.0 themes using Hydrogen, Oxygen, React, and Next.js. Proven track record delivering 50+ Shopify stores, mentoring development teams, and optimizing e-commerce performance, UX, and scalability. Collaborative leader passionate about transforming business ideas into high-quality technical solutions.",
+  "references":[],
+  "experience": [
+    {
+      "title": "Senior Shopify Developer",
+      "company": "Enkode Technologies ",
+      "period": "JUN 2021 - SEP 2025",
+      "skills": [
+        "Shopify",
+        "Shopify Plus",
+        "Liquid",
+        "React",
+        "Next.js",
+        "Hydrogen",
+        "Oxygen",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "TailwindCSS",
+        "Figma",
+        "InvisionApp",
+        "Zeplin"
+      ],
+      "summary": "You have 9+ years of experience in front-end and Shopify development, working across multiple roles from Frontend Developer to Senior Shopify Developer. Your expertise spans Shopify Plus, headless storefronts, Store 2.0 themes, Hydrogen, Oxygen, React, Next.js, and modern web technologies. You also have leadership experience mentoring teams and optimizing stores.",
+      "highlights": [
+        "9+ years in front-end and Shopify development.",
+        "Strong skills in Shopify, Shopify Plus, Liquid, React, Next.js, Hydrogen, Oxygen.",
+        "Experience in building and optimizing e-commerce stores.",
+        "Leadership experience mentoring developers."
+        ]
+    },
+    {
+      "title": "Shopify Theme Developer",
+      "company": "The Creativ Club ",
+      "period": "NOV 2018 - APR 2021",
+      "skills": [
+        "Shopify",
+        "Shopify Plus",
+        "Liquid",
+        "React",
+        "Next.js",
+        "Hydrogen",
+        "Oxygen",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "TailwindCSS",
+        "Figma",
+        "InvisionApp",
+        "Zeplin"
+      ],
+      "summary": "Expanded my skillset to Vue.js, building dynamic, component-driven applications with Vuex for state management and Vue Router for smooth navigation. Focused on code reusability, UI performance, and responsive design. Worked with TypeScript, SCSS, and Tailwind CSS to streamline development and ensure visual consistency.",
+      "highlights": [
+        "Built dynamic, data-driven UIs using Vue 2/3, Vuex, and Vue Router.",
+        "Created reusable component libraries and improved code reusability.",
+        "Optimized performance by implementing SSR and code-splitting.",
+        "Worked closely with backend developers to integrate APIs and ensure seamless data flow.",
+        "Improved UI/UX through animations, transitions, and accessibility practices."
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Penguin-team. PPC White Label Agency",
+      "period": "MAR 2016 - NOV 2018",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "TailwindCSS",
+        "Figma",
+        "InvisionApp",
+        "Zeplin",
+        "Shopify",
+        "Shopify Plus",
+        "Liquid",
+        "React",
+        "Next.js",
+        "Hydrogen",
+        "Oxygen"
+      ],
+      "summary": "Advanced into frontend development using Angular, where I architected enterprise-grade web applications and dashboards. Implemented modular components, dependency injection, and RxJS-based data flows for high performance and maintainability. Collaborated with design and backend teams to translate complex business logic into intuitive user interfaces.",
+      "highlights": [
+        "Built and maintained complex applications using Angular (v8–v16) and TypeScript.",
+        "Designed reusable components and custom directives to speed up development.",
+        "Implemented RxJS observables, lazy loading, and route guards for performance and security.",
+        "Integrated RESTful APIs and optimized HTTP requests for efficiency.",
+        "Collaborated in Agile teams and contributed to code reviews and architecture decisions."
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "SoftServe",
+      "period": "JUL 2014 - MAR 2016",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "TailwindCSS",
+        "Figma",
+        "InvisionApp",
+        "Zeplin"
+      ],
+      "summary": "Began my career mastering HTML, CSS, and JavaScript, building responsive and accessible user interfaces. Focused on clean structure, reusable components, and creating layouts that worked across all devices and browsers. Developed strong UI/UX fundamentals and attention to design precision.",
+      "highlights": [
+        "Developed fully responsive layouts using HTML5, CSS3, and JavaScript.",
+        "Implemented pixel-perfect designs and optimized pages for performance.",
+        "Focused on accessibility, semantic markup, and clean code structure.",
+        "Collaborated with designers to translate mockups into live interfaces.",
+        "Gained strong understanding of frontend fundamentals and design principles."
+      ]
+    }
+  ],
+  "skills": {
+    "Frontend Development": [
+      "React",
+      "redux",
+      "redux-thunk",
+      "Next.js",
+      "Angular",
+      "Vue",
+      "JavaScript",
+      "TypeScript",
+      "CSS",
+      "HTML",
+      "Bootstrap",
+      "TailwindCSS",
+      "Figma",
+      "InvisionApp",
+      "Zeplin"
+    ],
+    "ecommerce": [
+      "Shopify",
+      "WooCommerce",
+      "Magento",
+      "BigCommerce",
+      "Shopify Plus",
+      "Shopify Theme",
+      "Shopify App"
+    ],
+    "Shopify": [
+      "Shopify",
+      "Shopify Theme",
+      "Shopify App",
+      "Shopify Plus"
+    ],
+    "WordPress": [
+      "WordPress",
+      "WordPress Theme",
+      "WordPress Plugin",
+      "WordPress Customization",
+      "WordPress Development",
+      "WordPress Optimization",
+      "WordPress Security"
+    ],
+    "CMS": [
+      "WordPress",
+      "Drupal",
+      "Joomla",
+      "Magento",
+      "Shopify"
+    ],
+    "CRM": [
+      "Salesforce",
+      "HubSpot",
+      "Zendesk",
+      "Salesforce",
+      "HubSpot",
+      "Zendesk"
+    ],
+    "ERP": [
+      "SAP",
+      "Oracle ERP",
+      "NetSuite",
+      "Sage ERP",
+      "QuickBooks"
+    ],
+    "BI": [
+      "Tableau",
+      "Power BI",
+      "Looker",
+      "Redash",
+      "Metabase"
+    ],
+    "AI": [
+      "OpenAI",
+      "Google AI",
+      "Microsoft AI",
+      "IBM AI",
+      "AWS AI"
+    ],
+    "ML": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "Numpy"
+    ],
+    "Backend Development": [
+      "Node.js",
+      "NestJS",
+      "Express",
+      "Python",
+      "Django",
+      "Flask",
+      "FastAPI",
+      "RESTful APIs",
+      "GraphQL",
+      "Redis",
+      "RabbitMQ",
+      "TypeORM"
+    ],
+    "Web3 Technologies": [
+      "Solidity",
+      "Web3.js",
+      "Ethers.js",
+      "Smart Contracts"
+    ],
+    "Blockchain Platforms": [
+      "Ethereum",
+      "Polygon",
+      "Solana",
+      "Binance Smart Chain"
+    ],
+    "Decentralized Finance (DeFi)": [
+      "DApps",
+      "Decentralized Exchanges (DEX)",
+      "Centralized Exchanges (CEX)",
+      "NFT Marketplaces"
+    ],
+    "Database Management": [
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "MSSQL"
+    ],
+    "Smart Contract Development": [
+      "Solidity",
+      "Hardhat",
+      "Truffle",
+      "OpenZeppelin"
+    ],
+    "Testing and Debugging": [
+      "Karma",
+      "Jest",
+      "Selenium",
+      "Cypress",
+      "Pytest"
+    ],
+    "Version Controlling System": [
+      "Git",
+      "Github",
+      "Gitlab",
+      "BitBucket"
+    ],
+    "Tools and DevOps": [
+      "Docker",
+      "Git",
+      "GitHub Actions",
+      "CircleCI",
+      "AWS",
+      "IPFS",
+      "Heroku",
+      "Vercel"
+    ],
+    "Project Management": [
+      "Agile Methodology",
+      "Jira",
+      "Confluence"
+    ],
+    "Data Visualization": [
+      "D3.js",
+      "Chart.js"
+    ]
+  },
+  "education": {
+    "degree": "Bachelor of Computer Science",
+    "university": "Universitas Multimedia Nusantara",
+    "period": "SEP 2012 - JUN 2016",
+    "description": "Major concentration in Software Development, Algorithm Design, and Database Management Systems with distinction."
+  }
+}
