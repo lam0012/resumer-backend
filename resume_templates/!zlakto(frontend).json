@@ -10,7 +10,7 @@
     "references": [],
     "experience": [
     {
-      "title": "Director of Technology",
+      "title": "Software Engineer",
       "company": "Ajroni Website Agency",
       "period": "DEC 2022 - AUG 2025",
       "skills": [
@@ -41,7 +41,7 @@
         ]
     },
     {
-      "title": "Full Stack Developer",
+      "title": "Senior Frontend Developer",
       "company": "eHouse Studio",
       "period": "AUG 2020 - OCT 2022",
       "skills": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "title": "Software Engineer",
+      "title": "Full Stack developer",
       "company": "Convert Lab",
       "period": "NOV 2017 - JUL 2020",
       "skills": [],
@@ -86,7 +86,7 @@
     },
     {
       "title": "Full Stack Developer",
-      "company": "MNO",
+      "company": "Digital Butter",
       "period": "OCT 2016 - OCT 2017",
       "skills": [],
       "summary": "Built and maintained a health insurance platform from the ground up. Used Laravel, Blade, jQuery, Bootstrap, MongoDB, RESTful API, Nginx, AWS.",

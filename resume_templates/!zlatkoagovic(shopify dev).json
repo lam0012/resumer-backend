@@ -80,7 +80,7 @@
         },
         {
             "title": "Full Stack Developer",
-            "company": "MNO",
+            "company": "Digital Butter",
             "period": "OCT 2016 - OCT 2017",
             "skills": [],
             "summary": "Built and maintained a health insurance platform from the ground up. Used Laravel, Blade, jQuery, Bootstrap, MongoDB, RESTful API, Nginx, AWS.",
