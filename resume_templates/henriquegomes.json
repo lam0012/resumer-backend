@@ -1,0 +1,212 @@
+{
+    "name": "Henrique Gomes",
+    "contact": {
+        "location": "Paulista, Pernambuco, Brazil",
+        "GitHub": "https://github.com/fortunatoman",
+        "linkedin": "https://www.linkedin.com/in/henrique-gomes-8a5756396/",
+        "Email": "henriquegomes0214@gmail.com"
+    },
+    "summary": "Senior AI, Front End Engineer who thrives in building startups from the ground up, no matter the industry. I’ve led the development of sleek, high-performing web apps that scale, working remotely with global teams to deliver exceptional user experiences. Passionate about turning ideas into polished, responsive interfaces that drive growth.",
+    "references": [],
+    "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "Popstand",
+      "period": "FEB 2022 - AUG 2025",
+      "skills": [
+        "React.js",
+        "Next.js",
+        "Angular",
+        "Vue",
+        "TailwindCSS",
+        "Golang",
+        "Nest.js",
+        "Django",
+        "AWS",
+        "GCP",
+        "TDD",
+        "etc"
+      ],
+      "summary": "I have worked on several projects in various roles, including frontend, backend, DevOps, or a combination of these. I have also contributed to improving development processes and technology across the company.",
+      "highlights": [
+        "Led development of a high-performance web application, achieving a 97% PageSpeed score through Next.js optimization, SEO improvements, and AWS infrastructure setup (Route53, CloudFront, EC2, ELB, RDS).",
+        "Architected and deployed a microservices backend using NestJS, Golang and MongoDB, implementing API documentation with Swagger and CI/CD pipelines using GitHub Actions.",
+        "Mentored junior developers, conducted code reviews, and established development standards that reduced bug reports by 40%.",
+        "Built CMS and admin portals using React, Next.js, Tailwind CSS, and ShadCN, optimizing for mobile experiences and enhancing user engagement.",
+        "Developed cloud-native microservices using Python (FastAPI, AsyncIO) and Node.js, deployed on Kubernetes with Istio, improving system scalability, reliability, and observability.",
+        "Optimized database queries and implemented caching strategies, reducing API response times by 60%.",
+        "Designed and implemented a secure authentication system using JWT and OAuth2, ensuring GDPR compliance.",
+        "Used Jest and react-test-renderer for unit and integration testing, and Cypress for end-to end (E2E) testing.",
+        "Led the development of React Native applications for mobile platforms, integrating core business services and APIs, ensuring seamless mobile performance alongside the web app."
+        ]
+    },
+    {
+      "title": "Senior Frontend Developer",
+      "company": "Craft&Crew",
+      "period": "AUG 2020 - JAN 2022",
+      "skills": [
+        "React.js",
+        "Next.js",
+        "Angular",
+        "Vue",
+        "TailwindCSS",
+        "Golang",
+        "Nest.js",
+        "Django",
+        "AWS",
+        "GCP",
+        "Bootstrap",
+        "Webpack",
+        "InvisionApp",
+        "Balsamiq",
+        "CircleCI",
+        "Jenkins",
+        "AWS"
+      ],
+      "summary": "Built and maintained an AI-driven platform that supports business decision-making. Worked mainly on the frontend side with Angular, NgRx and rxjs. Built a microservice using NestJS on the backend side with RabbitMQ for messaging. Mentored junior guys to let them grow in a collaborative team environment.",
+      "highlights": [
+        "Improved team productivity by 30% by developing a real-time AI-powered task prioritization system with Angular and RxJS.",
+        "Handled 50K concurrent users by implementing WebSocket integration for live updates and notifications.",
+        "Reduced development time by 40% by creating a reusable UI components library with NgRx state management.",
+        "Set up an automated testing pipeline with Jest and Cypress, achieving 85% test coverage.",
+        "Developed and maintained GraphQL APIs with Node.js (NestJS) and Python (Django REST Framework), improving personalized content delivery and increasing customer engagement by 30%.",
+        "Utilized advanced caching strategies (Redis, CDNs) and PostgreSQL sharding to improve data access speed and reduce operational costs.",
+        "Integrated mobile-first design principles into the platform’s UI/UX to ensure a seamless experience across devices.",
+        "Automated infrastructure management with Terraform and Jenkins, streamlining CI/CD pipelines and improving release cycles.",
+        "Conducted code reviews for mid and junior level developers while promoting test-driven development and clean architecture principles."
+      ]
+    },
+    {
+      "title": "Full Stack developer",
+      "company": "Quave",
+      "period": "OCT 2017 - JUL 2020",
+      "skills": [],
+      "summary": "Contributed to building a Ticket Management System similar to ClickUp, built reusable components and integrated storybook for component testing. Collaborated with designers and product managers to ensure the interface was user-friendly and aligned with the business goals.",
+      "highlights": [
+        "Developed scalable RESTful APIs and data integration solutions using PHP (Laravel) and Python (Django), automating supply chain workflows and reducing operational overhead by 25%.",
+        "Mentored junior developers, conducted code reviews, and established development standards that reduced bug reports by 40%.",
+        "Created interactive dashboards and visualization tools using Vue.js and D3.js, enabling real-time monitoring and decision-making for large-scale supply chain operations.",
+        "Managed database design, optimization, and migration efforts for large MySQL and PostgreSQL databases.",
+        "Led the adoption of Docker, improving development workflows and ensuring consistent environments across local and staging setups.",
+        "Contributed to a significant reduction in production defects by implementing unit, integration, and end-to-end testing."
+      ]
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Domo Inovação",
+      "period": "OCT 2016 - SEP 2017",
+      "skills": [],
+      "summary": "Built and maintained a health insurance platform from the ground up. Used Laravel, Blade, jQuery, Bootstrap, MongoDB, RESTful API, Nginx, AWS.",
+      "highlights": [
+        "Developed and maintained 5 scalable web applications using React, Angular, Vue, Laravel, MongoDB, and Express.js, improving platform stability improving platform stability.",
+        "Designed APIs and managed front-end development.",
+        "Architected databases and deployed applications using modern DevOps practices.",
+        "Optimized performance and implemented responsive UI/UX.",
+        "Integrated third-party services such as Stripe, Firebase, and RESTful APIs.",
+        "Contributed to several Shopify-based projects including theme customization and layout changes using Liquid.",
+        "Performed lightweight integrations with apps."
+      ]
+    }
+  ],
+    "skills": {
+        "Frontend Development": [
+            "React",
+            "redux",
+            "redux-thunk",
+            "Next.js",
+            "Angular",
+            "Vue",
+            "JavaScript",
+            "TypeScript",
+            "CSS",
+            "HTML",
+            "Bootstrap",
+            "TailwindCSS",
+            "Figma",
+            "InvisionApp",
+            "Zeplin"
+        ],
+        "Backend Development": [
+            "Node.js",
+            "NestJS",
+            "Express",
+            "Python",
+            "Django",
+            "Flask",
+            "FastAPI",
+            "RESTful APIs",
+            "GraphQL",
+            "Redis",
+            "RabbitMQ",
+            "TypeORM"
+        ],
+        "Web3 Technologies": [
+            "Solidity",
+            "Web3.js",
+            "Ethers.js",
+            "Smart Contracts"
+        ],
+        "Blockchain Platforms": [
+            "Ethereum",
+            "Polygon",
+            "Solana",
+            "Binance Smart Chain"
+        ],
+        "Decentralized Finance (DeFi)": [
+            "DApps",
+            "Decentralized Exchanges (DEX)",
+            "Centralized Exchanges (CEX)",
+            "NFT Marketplaces"
+        ],
+        "Database Management": [
+            "MongoDB",
+            "PostgreSQL",
+            "MySQL",
+            "MSSQL"
+        ],
+        "Smart Contract Development": [
+            "Solidity",
+            "Hardhat",
+            "Truffle",
+            "OpenZeppelin"
+        ],
+        "Testing and Debugging": [
+            "Karma",
+            "Jest",
+            "Selenium",
+            "Cypress",
+            "Pytest"
+        ],
+        "Version Controlling System": [
+            "Git",
+            "Github",
+            "Gitlab",
+            "BitBucket"
+        ],
+        "Tools and DevOps": [
+            "Docker",
+            "Git",
+            "GitHub Actions",
+            "CircleCI",
+            "AWS",
+            "IPFS",
+            "Heroku",
+            "Vercel"
+        ],
+        "Project Management": [
+            "Agile Methodology",
+            "Jira",
+            "Confluence"
+        ],
+        "Data Visualization": [
+            "D3.js",
+            "Chart.js"
+        ]
+    },
+    "education": {
+        "degree": "Bachelor of Software Engineering",
+        "university": "Universidade Federal Rural de Pernambuco",
+        "period": "Sep 2012 to Sep 2016",
+        "description": "Major concentration in Software Development, Algorithm Design, and Database Management Systems with distinction."
+    }
+}
