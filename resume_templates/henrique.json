@@ -1,0 +1,236 @@
+{
+    "name": "Henrique Gomes Silva",
+    "contact": {
+        "location": "Paulista, Pernambuco, Brazil",
+        "Email": "henriquegomes0214@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/henrique-gomes-8a5756396/"
+    },
+    "summary": "My name is Henrique. It's important to be a top-quality developer, but my goal is to be someone you can trust and rely on to get the job done, even when there are unexpected issues and problems.",
+    "references": [],
+    "experience": [
+        {
+            "title": "Senior Shopify Engineer",
+            "company": "Popstand",
+            "period": "FEB 2022 - AUG 2025",
+            "skills": [
+                "shopify",
+                "shopify themes",
+                "shopify apps",
+                "shopify customization",
+                "shopify development",
+                "React.js",
+                "Material UI",
+                "Tailwind CSS",
+                "Storybook",
+                "Figma",
+                "Jest",
+                "AWS",
+                "Cypress",
+                "CI/CD",
+                "etc"
+            ],
+            "summary": "I have worked on several projects in various roles, including shopify customization, shopify development, shopify apps, shopify themes, backend, DevOps, or a combination of these. I have also contributed to improving development processes and technology across the company.",
+            "highlights": [
+                "CRO and A/B testing",
+                "Coordinated with cross-functional teams including designers, product managers, and QA engineers to deliver solutions that meet business requirements and user needs.",
+                "Provided guidance and support to junior developers through code reviews, pair programming, and knowledge sharing sessions, enhancing overall team performance and productivity.",
+                "Utilized remote collaboration tools such as Slack, Zoom, and Telegram to maintain effective communication and productivity with team members across different locations.",
+                "Implemented continuous integration and deployment pipelines using tools like Jenkins and GitHub Actions, streamlining development workflows and improving release cycles.",
+                "Implemented headless Shopify solutions using frameworks like Next.js and Gatsby for improved performance and flexibility.",
+                "Improved store performance, accessibility, and mobile-friendliness.",
+                "Led the development and optimization of Shopify stores, focusing on performance, user experience, and conversion rate optimization"
+            ]
+        },
+        {
+            "title": "Shopify theme & App developer",
+            "company": "Craft&Crew",
+            "period": "AUG 2020 - JAN 2022",
+            "skills": [
+                "shopify theme customization",
+                "React.js",
+                "Bootstrap",
+                "Webpack",
+                "InvisionApp",
+                "Balsamiq",
+                "CircleCI",
+                "Jenkins",
+                "AWS"
+            ],
+            "summary": "As a Senior Shopify Developer, I worked on a variety of eCommerce projects  for clients across different industries.This role helped me build a strong  foundation in Shopify development, work directly with designers and  store owners, and understand what makes a store perform well both visually and technically.",
+            "highlights": [
+                "Developed a real-time AI-powered task prioritization system using shopify,  Angular and RxJS, improving team productivity by 30%",
+                "Implemented WebSocket integration for live updates and notifications, handling 50K concurrent users",
+                "Built reusable UI components library with NgRx state management, reducing development time by 40%",
+                "Set up automated testing pipeline with Jest and Cypress, achieving 85% test coverage"
+            ]
+        },
+        {
+            "title": "Shopify Developer",
+            "company": "Quave",
+            "period": "Oct 2017 to Jul 2020",
+            "skills": [],
+            "summary": "Built and maintained a health insurance platform from the ground up. Used shopify Laravel, Blade, jQuery, Bootstrap, MongoDB, RESTful API, Nginx, AWS.",
+            "highlights": [
+                "Provided continuous maintenance, updates, and enhancements for Shopify stores.",
+                "Optimized store speed, ensuring a smooth user experience across all devices.",
+                "Managed theme updates, app integrations, and troubleshooting.",
+                "Ensured seamless Shopify version updates and API changes."
+            ]
+        },
+        {
+            "title": "Full Stack Developer",
+            "company": "Domo Inovação",
+            "period": "OCT 2016 - OCT 2017",
+            "skills": [],
+            "summary": "Built and maintained a health insurance platform from the ground up. Used Laravel, Blade, jQuery, Bootstrap, MongoDB, RESTful API, Nginx, AWS.",
+            "highlights": []
+          }
+    ],
+    "skills": {
+        "Frontend Development": [
+            "Shopify",
+            "Shopify Plus",
+            "Shopify Theme Development",
+            "Headless Commerce",
+            "Checkout UI Extensions",
+            "Performance Optimization,",
+            "Shopify App Development",
+            "Third Party App Integrations",
+            "Liquid",
+            "REST APIs",
+            "TailwindCSS",
+            "PostgreSQL",
+            "Vue.js",
+            "React.js",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Remix",
+            "Next.js",
+            "Shopify API",
+            "Shopify App Installation",
+            "Shopify Troubleshooting",
+            "Shopify App",
+            "Figma",
+            "XD",
+            "InviPostgreSQL",
+            "REST API",
+            "SEO Optimization",
+            "PSD",
+            "Pixel-perfect UI",
+            "AB Test",
+            "Google Analytics",
+            "DevOps",
+            "Jenkins",
+            "GitHub Actions",
+            "GitLab CI",
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "Azure",
+            "Python",
+            "Docker Compose",
+            "Helm",
+            "Nginx",
+            "Apache",
+            "shopify",
+            "React",
+            "redux",
+            "redux-thunk",
+            "Next.js",
+            "Angular",
+            "Vue",
+            "JavaScript",
+            "TypeScript",
+            "CSS",
+            "HTML",
+            "Bootstrap",
+            "TailwindCSS",
+            "Figma",
+            "InvisionApp",
+            "Zeplin"
+        ],
+        "Backend Development": [
+            "Node.js",
+            "NestJS",
+            "Express",
+            "Python",
+            "Django",
+            "Flask",
+            "FastAPI",
+            "RESTful APIs",
+            "GraphQL",
+            "Redis",
+            "RabbitMQ",
+            "TypeORM"
+        ],
+        "Web3 Technologies": [
+            "Solidity",
+            "Web3.js",
+            "Ethers.js",
+            "Smart Contracts"
+        ],
+        "Blockchain Platforms": [
+            "Ethereum",
+            "Polygon",
+            "Solana",
+            "Binance Smart Chain"
+        ],
+        "Decentralized Finance (DeFi)": [
+            "DApps",
+            "Decentralized Exchanges (DEX)",
+            "Centralized Exchanges (CEX)",
+            "NFT Marketplaces"
+        ],
+        "Database Management": [
+            "MongoDB",
+            "PostgreSQL",
+            "MySQL",
+            "MSSQL"
+        ],
+        "Smart Contract Development": [
+            "Solidity",
+            "Hardhat",
+            "Truffle",
+            "OpenZeppelin"
+        ],
+        "Testing and Debugging": [
+            "Karma",
+            "Jest",
+            "Selenium",
+            "Cypress",
+            "Pytest"
+        ],
+        "Version Controlling System": [
+            "Git",
+            "Github",
+            "Gitlab",
+            "BitBucket"
+        ],
+        "Tools and DevOps": [
+            "Docker",
+            "Git",
+            "GitHub Actions",
+            "CircleCI",
+            "AWS",
+            "IPFS",
+            "Heroku",
+            "Vercel"
+        ],
+        "Project Management": [
+            "Agile Methodology",
+            "Jira",
+            "Confluence"
+        ],
+        "Data Visualization": [
+            "D3.js",
+            "Chart.js"
+        ]
+    },
+    "education": {
+        "degree": "Bachelor of Software Engineering",
+        "university": "Universidade Federal Rural de Pernambuco",
+        "period": "Sep 2012 to Sep 2016",
+        "description": "Major concentration in Software Development, Algorithm Design, and Database Management Systems with distinction."
+    }
+}
