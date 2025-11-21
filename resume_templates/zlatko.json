@@ -2,11 +2,11 @@
     "name": "Zlatko Agovic",
     "contact": {
         "location": "Belgrade, Serbia",
-        "GitHub": "https://github.com/webcat12345",
+        "linkedin": "https://www.linkedin.com/in/zlatko-agovic-8881a8396/",
         "Email": "zlatkoagovic13@gmail.com",
         "whatsapp": "wa.me/381629233387"
     },
-    "summary": "Senior Front End Engineer who thrives in building startups from the ground up, no matter the industry. I’ve led the development of sleek, high-performing web apps that scale, working remotely with global teams to deliver exceptional user experiences. Passionate about turning ideas into polished, responsive interfaces that drive growth.",
+    "summary": "It is important to be a top-quality developer, but my goal is to be someone you can trust and rely on to get the job done, even when there are unexpected issues and problems.\n                Senior Front End Engineer who thrives in building startups from the ground up, no matter the industry. I've led the development of sleek, high performing web apps that scale, working remotely with global teams to deliver exceptional user experiences. Passionate about turning ideas into\n                polished, responsive interfaces that drive growth.\nThroughout my career I have worked across Serbia, the UK, and the US in teams ranging from 10 to 100 people, contributing to product\ndevelopment in international and fast-moving environments.\nI thrive in roles where I can connect backend architecture with user facing experiences, always keeping performance, accessibility, and\nmaintainability at the center.\nOver the years I have built:\n- Education platforms with adaptive learning, gamified dashboards, and real-time progress tracking.\n- Restaurant & delivery apps for online ordering, loyalty/points, and full payment/dispatch workflows.\n- E-commerce systems handling product catalogs, checkout, coupons, and logistics integrations.\nI am passionate about clean, scalable code and about collaborating with designers, product managers, and stakeholders to translate\nrequirements into meaningful solutions.\nMy work consistently reduces technical debt, improves time to-market, and enhances user satisfaction through measurable\nimprovements in performance and usability.\nAs I continue to grow my career, I'm especially motivated by projects where technology directly improves user experience - whether that's\nreducing waiting time in a restaurant, enabling faster deliveries, or making learning more accessible through digital platforms.",
     "references": [],
     "experience": [
     {
@@ -15,6 +15,7 @@
       "period": "DEC 2022 - AUG 2025",
       "skills": [
         "React.js",
+        "Laravel",
         "Next.js",
         "Angular",
         "Vue",
@@ -29,15 +30,18 @@
       ],
       "summary": "I have worked on several projects in various roles, including frontend, backend, DevOps, or a combination of these. I have also contributed to improving development processes and technology across the company.",
       "highlights": [
-        "Led development of a high-performance web application, achieving 97% PageSpeed score through NextJS optimization, SEO improvements, and AWS infrastructure setup (Route53, CloudFront, EC2, ELB, RDS)",
-        "Architected and deployed a microservices backend using NestJS and MongoDB, implementing API documentation with Swagger and CI/CD pipelines using GitHub Actions",
-        "Built a DEX platform with React and Web3.js, integrating smart contracts for token swaps and liquidity provision with 99.9% uptime",
-        "Developed a DAO platform using React and FastAPI, implementing proposal management and voting mechanisms with Web3.js integration",
-        "Created a real-time trading dashboard with WebSocket integration, achieving sub-second data updates and handling 100K+ concurrent users",
-        "Mentored junior developers, conducted code reviews, and established development standards that reduced bug reports by 40%",
-        "Optimized database queries and implemented caching strategies, reducing API response times by 60%",
-        "Designed and implemented secure authentication system using JWT and OAuth2, ensuring GDPR compliance",
-        "Set up comprehensive monitoring using ELK stack and Grafana, reducing incident response time by 50%"
+        "Developed white-label ordering and loyalty features with Laravel and React/Next.js, deployed across 100+ restaurants.",
+        "Architected and deployed a microservices backend using NestJS, Golang and MongoDB, implementing API documentation with Swagger and CI/CD pipelines using GitHub Actions.",
+        "Improved load times by approximately 35% using SSR/ISR, caching, and image optimization.",
+        "Integrated Stripe, Apple Pay, and Google Pay with reliable webhook handling, reducing failed transactions to under 1%.",
+        "Designed a multi-tenant structure with role-based access and data isolation.",
+        "Automated background processing with Redis queues, handling over 5,000 tasks daily.",
+        "Introduced monitoring dashboards that provided operators with real-time insights into orders and payments.",
+        "Collaborated closely with product managers to balance scalability with user experience.",
+        "Optimized database queries and implemented caching strategies, reducing API response times by 60% using Go.",
+        "Designed and implemented a secure authentication system using JWT and OAuth2, ensuring GDPR compliance.",
+        "Set up comprehensive monitoring using ELK stack and Grafana, reducing incident response time by 50%.",
+        "Developed conversion rate optimization strategies and A/B tests, increasing sales by 40% through data-driven UX enhancements."
         ]
     },
     {
@@ -66,6 +70,7 @@
       "summary": "Built and maintained an AI-driven platform that supports business decision-making. Worked mainly on the frontend side with Angular, NgRx and rxjs. Built a microservice using NestJS on the backend side with RabbitMQ for messaging. Mentored junior guys to let them grow in a collaborative team environment.",
       "highlights": [
         "Developed a real-time AI-powered task prioritization system using Angular and RxJS, improving team productivity by 30%",
+        "Rebuilt table-ordering and checkout flows in Laravel + Inertia.js, increasing completed orders by 18%",
         "Implemented WebSocket integration for live updates and notifications, handling 50K concurrent users",
         "Built reusable UI components library with NgRx state management, reducing development time by 40%",
         "Set up automated testing pipeline with Jest and Cypress, achieving 85% test coverage"
@@ -78,10 +83,9 @@
       "skills": [],
       "summary": "Contributed to building a Ticket Management System similar to ClickUp, built reusable components and integrated storybook for component testing. Collaborated with designers and product managers to ensure the interface was user-friendly and aligned with the business goals.",
       "highlights": [
-        "Developed and maintained a ticket management system using React and Redux, serving 10K+ daily active users",
-        "Created a component library with Storybook, improving team collaboration and reducing UI inconsistencies by 70%",
-        "Implemented drag-and-drop functionality for ticket organization using React DnD, enhancing user experience",
-        "Optimized frontend performance by implementing lazy loading and code splitting, reducing initial load time by 45%"
+        "Built and maintained a health insurance platform from the ground up. Used Laravel, Blade, jQuery, Bootstrap, MongoDB, RESTful API, Nginx, AWS.",
+        "Built and maintained RESTful APIs using Django REST Framework for seamless data exchange between frontend and backend systems.",
+        "Optimized database queries and implemented caching strategies using PostgreSQL, reducing API response times significantly"
       ]
     },
     {
@@ -90,7 +94,15 @@
       "period": "OCT 2016 - OCT 2017",
       "skills": [],
       "summary": "Built and maintained a health insurance platform from the ground up. Used Laravel, Blade, jQuery, Bootstrap, MongoDB, RESTful API, Nginx, AWS.",
-      "highlights": []
+      "highlights": [
+        "Developed and maintained scalable web applications using React, Angular, Vue, Laravel, Mongo Db, Express.js",
+        "Designed APIs and managed front-end development.",
+        "Architected databases and deployed applications using modern DevOps practices.",
+        "Optimized performance and implemented responsive UI/UX.",
+        "Integrated third-party services such as Stripe, Firebase, and RESTful APIs.",
+        "Contributed to several Shopify-based projects including theme customization and layout changes using Liquid.",
+        "Performed lightweight integrations with apps"
+      ]
     }
   ],
     "skills": {
@@ -98,6 +110,8 @@
             "React",
             "redux",
             "redux-thunk",
+            "Laravel",
+            "Inertia.js",
             "Next.js",
             "Angular",
             "Vue",
@@ -113,6 +127,8 @@
         ],
         "Backend Development": [
             "Node.js",
+            "Golang",
+            "Laravel",
             "NestJS",
             "Express",
             "Python",
@@ -125,35 +141,11 @@
             "RabbitMQ",
             "TypeORM"
         ],
-        "Web3 Technologies": [
-            "Solidity",
-            "Web3.js",
-            "Ethers.js",
-            "Smart Contracts"
-        ],
-        "Blockchain Platforms": [
-            "Ethereum",
-            "Polygon",
-            "Solana",
-            "Binance Smart Chain"
-        ],
-        "Decentralized Finance (DeFi)": [
-            "DApps",
-            "Decentralized Exchanges (DEX)",
-            "Centralized Exchanges (CEX)",
-            "NFT Marketplaces"
-        ],
         "Database Management": [
             "MongoDB",
             "PostgreSQL",
             "MySQL",
             "MSSQL"
-        ],
-        "Smart Contract Development": [
-            "Solidity",
-            "Hardhat",
-            "Truffle",
-            "OpenZeppelin"
         ],
         "Testing and Debugging": [
             "Karma",

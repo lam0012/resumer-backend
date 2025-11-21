@@ -5,7 +5,7 @@
         "GitHub": "https://github.com/fortunatoman",
         "Email": "henriquegomes0214@gmail.com"
     },
-    "summary": "Senior AI, Front End Engineer who thrives in building startups from the ground up, no matter the industry. I’ve led the development of sleek, high-performing web apps that scale, working remotely with global teams to deliver exceptional user experiences. Passionate about turning ideas into polished, responsive interfaces that drive growth.",
+    "summary": "My name is Henrique. \n It is important to be a top-quality developer, but my goal is to be someone you can trust and rely on to get the job done, even when there are unexpected issues and problems.\n                Senior Front End Engineer who thrives in building startups from the ground up, no matter the industry. I've led the development of sleek, high performing web apps that scale, working remotely with global teams to deliver exceptional user experiences. Passionate about turning ideas into\n                polished, responsive interfaces that drive growth.\nThroughout my career I have worked across Serbia, the UK, and the US in teams ranging from 10 to 100 people, contributing to product\ndevelopment in international and fast-moving environments.\nI thrive in roles where I can connect backend architecture with user facing experiences, always keeping performance, accessibility, and\nmaintainability at the center.\nOver the years I have built:\n- Education platforms with adaptive learning, gamified dashboards, and real-time progress tracking.\n- Restaurant & delivery apps for online ordering, loyalty/points, and full payment/dispatch workflows.\n- E-commerce systems handling product catalogs, checkout, coupons, and logistics integrations.\nI am passionate about clean, scalable code and about collaborating with designers, product managers, and stakeholders to translate\nrequirements into meaningful solutions.\nMy work consistently reduces technical debt, improves time to-market, and enhances user satisfaction through measurable\nimprovements in performance and usability.\nAs I continue to grow my career, I'm especially motivated by projects where technology directly improves user experience - whether that's\nreducing waiting time in a restaurant, enabling faster deliveries, or making learning more accessible through digital platforms.",
     "references": [],
     "experience": [
     {
@@ -14,6 +14,7 @@
       "period": "FEB 2022 - AUG 2025",
       "skills": [
         "React.js",
+        "Laravel",
         "Next.js",
         "Angular",
         "Vue",
@@ -28,15 +29,18 @@
       ],
       "summary": "I have worked on several projects in various roles, including frontend, backend, DevOps, or a combination of these. I have also contributed to improving development processes and technology across the company.",
       "highlights": [
-        "Led development of a high-performance web application, achieving a 97% PageSpeed score through Next.js optimization, SEO improvements, and AWS infrastructure setup (Route53, CloudFront, EC2, ELB, RDS).",
+        "Developed white-label ordering and loyalty features with Laravel and React/Next.js, deployed across 100+ restaurants.",
         "Architected and deployed a microservices backend using NestJS, Golang and MongoDB, implementing API documentation with Swagger and CI/CD pipelines using GitHub Actions.",
-        "Mentored junior developers, conducted code reviews, and established development standards that reduced bug reports by 40%.",
-        "Built CMS and admin portals using React, Next.js, Tailwind CSS, and ShadCN, optimizing for mobile experiences and enhancing user engagement.",
-        "Developed cloud-native microservices using Python (FastAPI, AsyncIO) and Node.js, deployed on Kubernetes with Istio, improving system scalability, reliability, and observability.",
-        "Optimized database queries and implemented caching strategies, reducing API response times by 60%.",
+        "Improved load times by approximately 35% using SSR/ISR, caching, and image optimization.",
+        "Integrated Stripe, Apple Pay, and Google Pay with reliable webhook handling, reducing failed transactions to under 1%.",
+        "Designed a multi-tenant structure with role-based access and data isolation.",
+        "Automated background processing with Redis queues, handling over 5,000 tasks daily.",
+        "Introduced monitoring dashboards that provided operators with real-time insights into orders and payments.",
+        "Collaborated closely with product managers to balance scalability with user experience.",
+        "Optimized database queries and implemented caching strategies, reducing API response times by 60% using Go.",
         "Designed and implemented a secure authentication system using JWT and OAuth2, ensuring GDPR compliance.",
-        "Used Jest and react-test-renderer for unit and integration testing, and Cypress for end-to end (E2E) testing.",
-        "Led the development of React Native applications for mobile platforms, integrating core business services and APIs, ensuring seamless mobile performance alongside the web app."
+        "Set up comprehensive monitoring using ELK stack and Grafana, reducing incident response time by 50%.",
+        "Developed conversion rate optimization strategies and A/B tests, increasing sales by 40% through data-driven UX enhancements."
         ]
     },
     {
@@ -112,6 +116,8 @@
             "React",
             "redux",
             "redux-thunk",
+            "Laravel",
+            "Inertia.js",
             "Next.js",
             "Angular",
             "Vue",
@@ -128,6 +134,8 @@
         "Backend Development": [
             "Node.js",
             "NestJS",
+            "Laravel",
+            "Golang",
             "Express",
             "Python",
             "Django",
@@ -139,35 +147,11 @@
             "RabbitMQ",
             "TypeORM"
         ],
-        "Web3 Technologies": [
-            "Solidity",
-            "Web3.js",
-            "Ethers.js",
-            "Smart Contracts"
-        ],
-        "Blockchain Platforms": [
-            "Ethereum",
-            "Polygon",
-            "Solana",
-            "Binance Smart Chain"
-        ],
-        "Decentralized Finance (DeFi)": [
-            "DApps",
-            "Decentralized Exchanges (DEX)",
-            "Centralized Exchanges (CEX)",
-            "NFT Marketplaces"
-        ],
         "Database Management": [
             "MongoDB",
             "PostgreSQL",
             "MySQL",
             "MSSQL"
-        ],
-        "Smart Contract Development": [
-            "Solidity",
-            "Hardhat",
-            "Truffle",
-            "OpenZeppelin"
         ],
         "Testing and Debugging": [
             "Karma",
