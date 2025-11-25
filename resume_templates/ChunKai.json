@@ -1,0 +1,174 @@
+{
+    "name": "CHUN KAI LAM",
+    "contact": {
+        "Address": "Hong Kong",
+        "Email": "lamjunkai5@gmail.com"
+    },
+    "references": [
+        // {
+        //     "name": "Puneet Mehta ( CEO, Netomi )",
+        //     "text": "To whom it may concern - I, Puneet Mehta, CEO of Netomi and writing this ...",
+        //     "link": "https://drive.google.com/file/d/1tuiE-HqV0qwPH5xnWe1PvcAUHzkPEjtY/view?usp=drive_link"
+        // },
+        // {
+        //     "name": "Thomas Temeschinko ( Head of Engineering, UHP )",
+        //     "text": "Jun worked with us at UHP as a Full Stack Developer from August 2017 till Jul 2020 and ...",
+        //     "link": "https://drive.google.com/file/d/1l3xTS6SjNeLYwx1Pf-dbl4gDLCpxlxax/view?usp=drive_link"
+        // },
+        // {
+        //     "name": "Peter Bagge ( Director of Technology, Thought Machine )",
+        //     "text": "I am writing to enthusiastically recommend Jun Kai for a software engineering position. I enjoyed ...",
+        //     "link": "https://drive.google.com/file/d/1U5-lgyzkYmBXPg1eNR0crgg6uPpQCSdQ/view?usp=sharing"
+        // }
+    ],
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "company": "Estech Digital (Los Angeles, California)",
+            "period": "NOV 2022 - SEP 2025",
+            "skills": [
+                "React.js",
+                "Next.js",
+                "Angular",
+                "Vue",
+                "TailwindCSS",
+                "Golang",
+                "Nest.js",
+                "Django",
+                "AWS",
+                "GCP",
+                "TDD",
+                "etc"
+            ],
+            "summary": "https://drive.google.com/drive/folders/1bIOIJRrcfF6bfTVy-lebN1tiaqDEedjx?usp=drive_link\nI have developed a large-scale B2B SaaS platform using PHP Laravel, Redux.js, ReactJs + Material UI + React Router + TypeScript, AWS CDK, Buddy CI, AWS, RDS Aurora MySQL, AWS Lambda, Elasticache Redis, S3, EKS/ECR, Cloud.\nAs you can see in my attached file, I have implemented following features in these projects:",
+            "highlights": [
+                "B2B SaaS application to allow end users to effectively manage and get reporting for their visitors.",
+                "Customizable user types and check-in workflows for each visitor type.",
+                "Configurable alerts and notifications for check-in, check-out, delivery, etc.",
+                "Robust reporting for visitor data.",
+                "Visitor training and screening features.",
+                "Touchless check-ins and visitor badge printing to allow visitor access to restricted locations.",
+                "Multilingual support and ability for end users to have different workflows for each visitor locale.",
+                "Integration with Azure AD and Active Directory for syncing location employees.",
+                "Interactive notification integrations with MS Teams and Slack to assist workflows.",
+                "SMS integration.",
+                "SMS Blast functionality to quickly send notifications to all visitors or everyone in case of emergencies."
+            ]
+        },
+        {
+            "title": "Frontend Engineer",
+            "company": "Thought Machine (London, United Kingdom)",
+            "period": "AUG 2020 - OCT 2022",
+            "skills": [
+                "React.js",
+                "Vue",
+                "Bootstrap",
+                "Webpack",
+                "InvisionApp",
+                "Balsamiq",
+                "CircleCI",
+                "Jenkins",
+                "AWS"
+            ],
+            "summary": "https://drive.google.com/drive/folders/10GW8N0R9kxavR16MzXrk6u5N1iuMBhAN?usp=drive_link\nAt Refutbol, I worked as a Frontend Developer on a high-performance sports analytics platform. The product processed over 1.5K events and 8.5K sub-events per match, allowing users to analyze referees, teams, and players in real time.\nI developed interactive and scalable UI features using Vue.js, optimized complex data visualizations, and helped build customizable tagging and playlist tools.\nMy focus was on delivering a smooth user experience despite heavy data workloads.",
+            "highlights": [                
+                "Developed a real-time AI-powered task prioritization system using Angular and RxJS, improving team productivity by 30%",
+                "Implemented WebSocket integration for live updates and notifications, handling 50K concurrent users",
+                "Built reusable UI components library with NgRx state management, reducing development time by 40%",
+                "Set up automated testing pipeline with Jest and Cypress, achieving 85% test coverage"
+            ]
+        },
+        {
+            "title": "Frontend developer",
+            "company": "Orient Overseas Container Line (Hong Kong)",
+            "period": "OCT 2019 - JUL 2020",
+            "skills": [],
+            "summary": "https://miro.com/app/board/uXjVJ1knH1s=/?focusWidget=3458764632024015081\nhttps://drive.google.com/file/d/1BFbi4X2xXstgHcfkRHa5upGZDOylHaUb/view?usp=drive_link\nI have designed and built a scalable lead generation and data scraping platform using Python, Django, and FastAPI. The system automatically collected RCS numbers, VAT numbers, and detailed company data from multiple structured and unstructured sources. Implemented asynchronous scraping, data normalization, deduplication, and validation pipelines to ensure accuracy. Delivered actionable, real-time business intelligence through clean APIs and automated workflows.",
+            "highlights": [
+                "Developed and maintained scalable web applications using React, Angular, Vue, Laravel, MongoDB, and Express.js.",
+                "Architected databases and deployed applications using modern DevOps practices.",
+                "Optimized performance and implemented responsive UI/UX.",
+                "Integrated third-party services such as Stripe, Firebase, and RESTful APIs.",
+                "Contributed to several Shopify-based projects, including theme customization and layout changes using Liquid.",
+                "Performed lightweight integrations with apps."
+            ]
+        }
+    ],
+    "skills": {
+        "Frontend Development": [
+            "React",
+            "redux",
+            "redux-thunk",
+            "Next.js",
+            "Angular",
+            "Vue",
+            "JavaScript",
+            "TypeScript",
+            "CSS",
+            "HTML",
+            "Bootstrap",
+            "TailwindCSS",
+            "Figma",
+            "InvisionApp",
+            "Zeplin"
+        ],
+        "Backend Development": [
+            "Node.js",
+            "NestJS",
+            "Express",
+            "Python",
+            "Django",
+            "Flask",
+            "FastAPI",
+            "RESTful APIs",
+            "GraphQL",
+            "Redis",
+            "RabbitMQ",
+            "TypeORM"
+        ],
+        "Database Management": [
+            "MongoDB",
+            "PostgreSQL",
+            "MySQL",
+            "MSSQL"
+        ],
+        "Testing and Debugging": [
+            "Karma",
+            "Jest",
+            "Selenium",
+            "Cypress",
+            "Pytest"
+        ],
+        "Version Controlling System": [
+            "Git",
+            "Github",
+            "Gitlab",
+            "BitBucket"
+        ],
+        "Tools and DevOps": [
+            "Docker",
+            "Git",
+            "GitHub Actions",
+            "CircleCI",
+            "AWS",
+            "IPFS",
+            "Heroku",
+            "Vercel"
+        ],
+        "Project Management": [
+            "Agile Methodology",
+            "Jira",
+            "Confluence"
+        ],
+        "Data Visualization": [
+            "D3.js",
+            "Chart.js"
+        ]
+    },
+    "education": {
+        "degree": "Bachelor of Software Engineering",
+        "university": "Hong Kong Polytechnic University(PolyU), Hong Kong",
+        "period": "SEP 2015 - SEP 2019",
+        "description": "Major concentration in Software Development, Algorithm Design, and Database Management Systems with distinction."
+    }
+}
