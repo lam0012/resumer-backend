@@ -4,23 +4,8 @@
         "Address": "Hong Kong",
         "Email": "lamjunkai5@gmail.com"
     },
-    "references": [
-        // {
-        //     "name": "Puneet Mehta ( CEO, Netomi )",
-        //     "text": "To whom it may concern - I, Puneet Mehta, CEO of Netomi and writing this ...",
-        //     "link": "https://drive.google.com/file/d/1tuiE-HqV0qwPH5xnWe1PvcAUHzkPEjtY/view?usp=drive_link"
-        // },
-        // {
-        //     "name": "Thomas Temeschinko ( Head of Engineering, UHP )",
-        //     "text": "Jun worked with us at UHP as a Full Stack Developer from August 2017 till Jul 2020 and ...",
-        //     "link": "https://drive.google.com/file/d/1l3xTS6SjNeLYwx1Pf-dbl4gDLCpxlxax/view?usp=drive_link"
-        // },
-        // {
-        //     "name": "Peter Bagge ( Director of Technology, Thought Machine )",
-        //     "text": "I am writing to enthusiastically recommend Jun Kai for a software engineering position. I enjoyed ...",
-        //     "link": "https://drive.google.com/file/d/1U5-lgyzkYmBXPg1eNR0crgg6uPpQCSdQ/view?usp=sharing"
-        // }
-    ],
+    "summary": "My name is Chun Kai Lam\nMy goal isn't just to be a strong developer but someone you can count on to deliver, stay calm, and solve problems when things don't go as planned.\nFront End Engineer who thrives in building startups from the ground up, no matter the industry.\nThroughout my career I have worked across Hong Kong, the UK, and the US in teams ranging from 10 to 100 people, contributing to product development in international and fast-moving environments.\nOver the years I have built:\n- B2B SaaS large-scale platforms.\n- Education platforms with adaptive learning, gamified dashboards, and real-time progress tracking.\n- Restaurant & delivery apps for online ordering, loyalty/points, and full payment/dispatch workflows.\n- E-commerce systems handling product catalogs, checkout, coupons, and logistics integrations.\nI am passionate about clean, scalable code and about collaborating with designers, product managers, and stakeholders to translate requirements into meaningful solutions.\nMy work consistently reduces technical debt, improves time to-market, and enhances user satisfaction through measurable improvements in performance and usability.\nAs I continue to grow my career, I'm especially motivated by projects where technology directly improves user experience - whether that's reducing waiting time in a restaurant, enabling faster deliveries, or making learning more accessible through digital platforms.",
+    "references": [],
     "experience": [
         {
             "title": "Software Engineer",
