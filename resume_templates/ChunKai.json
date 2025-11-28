@@ -26,7 +26,7 @@
                 "TDD",
                 "etc"
             ],
-            "summary": "https://drive.google.com/drive/folders/1bIOIJRrcfF6bfTVy-lebN1tiaqDEedjx?usp=drive_link\nI have developed a large-scale B2B SaaS platform using PHP Laravel, Redux.js, ReactJs + Material UI + React Router + TypeScript, AWS CDK, Buddy CI, AWS, RDS Aurora MySQL, AWS Lambda, Elasticache Redis, S3, EKS/ECR, Cloud.\nAs you can see in my attached file, I have implemented following features in these projects:",
+            "summary": "I have worked on several projects in various roles, including frontend, backend, DevOps, or a combination of these. I have also contributed to improving development processes and technology across the company.",
             "highlights": [
                 "Developed white-label ordering and loyalty features with Laravel and React/Next.js, deployed across 100+ restaurants.",
                 "Led development of a high-performance web application, achieving a 97% PageSpeed score through Next.js optimization, SEO improvements, and AWS infrastructure setup (Route53, CloudFront, EC2, ELB, RDS).",
@@ -55,7 +55,7 @@
                 "Jenkins",
                 "AWS"
             ],
-            "summary": "https://drive.google.com/drive/folders/10GW8N0R9kxavR16MzXrk6u5N1iuMBhAN?usp=drive_link\nAt Refutbol, I worked as a Frontend Developer on a high-performance sports analytics platform. The product processed over 1.5K events and 8.5K sub-events per match, allowing users to analyze referees, teams, and players in real time.\nI developed interactive and scalable UI features using Vue.js, optimized complex data visualizations, and helped build customizable tagging and playlist tools.\nMy focus was on delivering a smooth user experience despite heavy data workloads.",
+            "summary": "Built and maintained an AI-driven platform that supports business decision-making. Worked mainly on the frontend side with Angular, NgRx and rxjs. Built a microservice using NestJS on the backend side with RabbitMQ for messaging. Mentored junior guys to let them grow in a collaborative team environment.",
             "highlights": [                
                 "Developed a real-time AI-powered task prioritization system using Angular and RxJS, improving team productivity by 30%",
                 "Implemented WebSocket integration for live updates and notifications, handling 50K concurrent users",
@@ -64,18 +64,12 @@
             ]
         },
         {
-            "title": "Frontend developer",
+            "title": "Full Stack developer",
             "company": "Orient Overseas Container Line (Hong Kong)",
             "period": "OCT 2019 - JUL 2020",
             "skills": [],
-            "summary": "https://miro.com/app/board/uXjVJ1knH1s=/?focusWidget=3458764632024015081\nhttps://drive.google.com/file/d/1BFbi4X2xXstgHcfkRHa5upGZDOylHaUb/view?usp=drive_link\nI have designed and built a scalable lead generation and data scraping platform using Python, Django, and FastAPI. The system automatically collected RCS numbers, VAT numbers, and detailed company data from multiple structured and unstructured sources. Implemented asynchronous scraping, data normalization, deduplication, and validation pipelines to ensure accuracy. Delivered actionable, real-time business intelligence through clean APIs and automated workflows.",
+            "summary": "Built and maintained a health insurance platform from the ground up. Used Laravel, Blade, jQuery, Bootstrap, MongoDB, RESTful API, Nginx, AWS.",
             "highlights": [
-                "Developed and maintained scalable web applications using React, Angular, Vue, Laravel, MongoDB, and Express.js.",
-                "Architected databases and deployed applications using modern DevOps practices.",
-                "Optimized performance and implemented responsive UI/UX.",
-                "Integrated third-party services such as Stripe, Firebase, and RESTful APIs.",
-                "Contributed to several Shopify-based projects, including theme customization and layout changes using Liquid.",
-                "Performed lightweight integrations with apps."
             ]
         }
     ],
