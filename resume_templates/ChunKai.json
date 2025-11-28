@@ -70,6 +70,13 @@
             "skills": [],
             "summary": "Built and maintained a health insurance platform from the ground up. Used Laravel, Blade, jQuery, Bootstrap, MongoDB, RESTful API, Nginx, AWS.",
             "highlights": [
+                "Developed and maintained scalable web applications using React, Angular, Vue, Laravel, Mongo Db, Express.js",
+                "Designed APIs and managed front-end development.",
+                "Architected databases and deployed applications using modern DevOps practices.",
+                "Optimized performance and implemented responsive UI/UX.",
+                "Integrated third-party services such as Stripe, Firebase, and RESTful APIs.",
+                "Contributed to several Shopify-based projects including theme customization and layout changes using Liquid.",
+                "Performed lightweight integrations with apps"
             ]
         }
     ],
