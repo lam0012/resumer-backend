@@ -28,17 +28,16 @@
             ],
             "summary": "https://drive.google.com/drive/folders/1bIOIJRrcfF6bfTVy-lebN1tiaqDEedjx?usp=drive_link\nI have developed a large-scale B2B SaaS platform using PHP Laravel, Redux.js, ReactJs + Material UI + React Router + TypeScript, AWS CDK, Buddy CI, AWS, RDS Aurora MySQL, AWS Lambda, Elasticache Redis, S3, EKS/ECR, Cloud.\nAs you can see in my attached file, I have implemented following features in these projects:",
             "highlights": [
-                "B2B SaaS application to allow end users to effectively manage and get reporting for their visitors.",
-                "Customizable user types and check-in workflows for each visitor type.",
-                "Configurable alerts and notifications for check-in, check-out, delivery, etc.",
-                "Robust reporting for visitor data.",
-                "Visitor training and screening features.",
-                "Touchless check-ins and visitor badge printing to allow visitor access to restricted locations.",
-                "Multilingual support and ability for end users to have different workflows for each visitor locale.",
-                "Integration with Azure AD and Active Directory for syncing location employees.",
-                "Interactive notification integrations with MS Teams and Slack to assist workflows.",
-                "SMS integration.",
-                "SMS Blast functionality to quickly send notifications to all visitors or everyone in case of emergencies."
+                "Developed white-label ordering and loyalty features with Laravel and React/Next.js, deployed across 100+ restaurants.",
+                "Led development of a high-performance web application, achieving a 97% PageSpeed score through Next.js optimization, SEO improvements, and AWS infrastructure setup (Route53, CloudFront, EC2, ELB, RDS).",
+                "Architected and deployed a microservices backend using NestJS, Golang, and MongoDB, implementing API documentation with Swagger and CI/CD pipelines using GitHub Actions.",
+                "Mentored junior developers, conducted code reviews, and established development standards that reduced bug reports by 40%.",
+                "Built CMS and admin portals using React, Next.js, Tailwind CSS, and ShadCN, optimizing for mobile experiences and enhancing user engagement.",
+                "Developed cloud-native microservices using Python (FastAPI, AsyncIO) and Node.js, deployed on Kubernetes with Istio, improving system scalability, reliability, and observability.",
+                "Optimized database queries and implemented caching strategies, reducing API response times by 60%.",
+                "Designed and implemented a secure authentication system using JWT and OAuth2, ensuring GDPR compliance.",
+                "Used Jest and react-test-renderer for unit and integration testing, and Cypress for end-to-end (E2E) testing.",
+                "Led the development of React Native applications for mobile platforms, integrating core business services and APIs, ensuring seamless mobile performance alongside the web app"
             ]
         },
         {
